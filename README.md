@@ -1,5 +1,5 @@
 # Downloading the Blender plugin
-Download the ZIP from this GitHub directory.
+Download the ZIP from the [Blender plugin GitHub directory](https://github.com/Sebvd/BlenderVATCreator).
 In Blender, go to *edit > Preferences > Add-ons > Install from disk*
 
 <img width="660" height="436" alt="afbeelding" src="https://github.com/user-attachments/assets/0544b320-d25b-4e09-b62d-57f12a67e863" />
@@ -7,7 +7,7 @@ In Blender, go to *edit > Preferences > Add-ons > Install from disk*
 The plugin should now be good to go.
 
 # Downloading the Unreal Engine plugin
-Download the Plugin folder from [its GitHub](https://github.com/Sebvd/UnrealVATTools). Create a new folder in your Unreal project folder called "Plugins", and paste the folder there.
+Download the Plugin folder from this GitHub. Create a new folder in your Unreal project folder called "Plugins", and paste the folder there.
 
 # Exporting VATs
 ## Creating the files with the Blender plugin
