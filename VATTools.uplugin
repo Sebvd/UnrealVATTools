@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "VATTools",
+	"Description": "Shaders and tools built to interact with vertex animation textures",
+	"Category": "Other",
+	"CreatedBy": "Seb van den Beemt",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "VATTools",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
